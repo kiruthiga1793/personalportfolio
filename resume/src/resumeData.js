@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl":"https://github.com/kiruthiga1793",
+  "imagebaseurl":"https://personalportfolio.github.io/",
 
         "socialLinks":[
         {
